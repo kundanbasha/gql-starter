@@ -1,0 +1,23 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kundanbasha/gql-starter.git"
+  },
+  "author": "Alam Basha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kundanbasha/gql-starter/issues"
+  },
+  "homepage": "https://github.com/kundanbasha/gql-starter#readme",
+  "description": "",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.11.0"
+  }
+}
